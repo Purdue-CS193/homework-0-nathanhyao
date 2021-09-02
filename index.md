@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Edited
 
-A sentence that's edited in at 7:30 PM, 9/2/2021. Be sure to commit changes to save.
+Here's a sentence that's edited in at 7:30 PM, 9/2/2021. Be sure to commit changes to save.
 
 ```markdown
 Syntax highlighted code block
