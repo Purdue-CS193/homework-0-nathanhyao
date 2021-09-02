@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Edited
+
+A sentence that's edited in at 7:30 PM, 9/2/2021. Be sure to commit changes to save.
+
 ```markdown
 Syntax highlighted code block
 
