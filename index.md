@@ -1,3 +1,7 @@
+# Nathan Yao's First CS193 Homework
+- I love that we won't have anymore homework assignments in CS193
+- I love that the above bullet point is true
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
